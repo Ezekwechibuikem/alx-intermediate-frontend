@@ -1,0 +1,7 @@
+Steps to install SASS
+
+1. Create an empty file 0-installation-script.
+
+2. In your ubuntu terminal install node version 20.16 as follows: curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+
+3. Install SASS by using the following command if you have node installed: npm install sass -v 3.7.4
